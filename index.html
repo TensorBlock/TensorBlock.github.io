@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Antigma - Mine Thyself</title>
+    <title>TensorBlock</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -12,61 +12,98 @@
  ║ ├┤ │││└─┐│ │├┬┘╠╩╗│  │ ││  ├┴┐
  ╩ └─┘┘└┘└─┘└─┘┴└─╚═╝┴─┘└─┘└─┘┴ ┴
     </pre>
+    
+    <!-- Always visible intro section -->
     <div id="intro" class="section readable-content">
         <h2>Welcome to <span class="project-name">TensorBlock</span></h2>
         <p><span class="project-name">TensorBlock</span> Building the decentralized AI blockchain platform for Self-Organizing Intelligence.</p>
         <p><strong class="highlight">Slogan:</strong> The Endgame of AGI: Open Source Models, Evolution Through Diversity.</p>
     </div>
-    <div id="articles" class="section readable-content">
-        <h2>Articles</h2>
-        <ul>
-            <li><a href="#" onclick="displayArticle('article1')">Early thought on AI wanna share with you</a></li>
-            <li><a href="#" onclick="displayArticle('article2')">The Future of AI in edge devices</a></li>
-            <li><a href="#" onclick="displayArticle('article3')">How <span class="project-name">TensorBlock</span> Protects Your Privacy</a></li>
-        </ul>
-    </div>
-    <div id="article1" class="section article-content readable-content">
-        <h2>Early thought on AI wanna share with you</h2>
-        <div class="narrow-content">
-            <p><span class="project-name">TensorBlock</span> is building the decentralized AI blockchain platform for Self-Organizing Intelligence.</p>
-            <p><strong class="highlight">Slogan:</strong> The Endgame of AGI: Open Source Models, Evolution Through Diversity.</p>
-            
-            <p>AI inference today mirrors the early days of distributed systems. While machines can now connect to networks effortlessly, the software framework needed to coordinate them for distributed tasks remains absent. TensorBlock is here to bridge that gap.</p>
-            
-            <p>We believe open-source LLMs are the ultimate destination. Just as Linux became the dominant OS for servers and laid the foundation for Android, we see open-source as the future of AI.</p>
-            
-            <p>Our goal is to incentivize people to contribute their resources. We’re starting with GPUs, but we’ll eventually unlock more—residential IPs, bandwidth, CPUs, RAM, and storage.</p>
-            
-            <p>We believe diversity fuels evolution. While many great models exist on Hugging Face, they lack true vitality. TensorBlock breathes life into them.</p>
-        </div>
-        <p><a class="command" onclick="navigate('articles')">back</a></p>
-    </div>
-    <div id="article2" class="section article-content readable-content">
-        <h2>The Future of AI in edge devices</h2>
-        <p>This article discusses the future trends and potential of AI in edge devices...</p>
-        <p><a class="command" onclick="navigate('articles')">back</a></p>
-    </div>
-    <div id="article3" class="section article-content readable-content">
-        <h2>How <span class="project-name">TensorBlock</span> Protects Your Privacy</h2>
-        <p>This article describes the measures <span class="project-name">TensorBlock</span> takes to protect user privacy...</p>
-        <p><a class="command" onclick="navigate('articles')">back</a></p>
-    </div>
-    <div id="team" class="section readable-content">
-        <h2>Our Team</h2>
-        <ul>
-            <li><strong class="highlight">Dean W:</strong> Co-founder, CEO</li>
-            <li><strong class="highlight">Morris Z:</strong> Co-founder, Chief AI Scientist</li>
-            <li><strong class="highlight">Wilson C:</strong> Co-founder, CTO</li>
-        </ul>
-    </div>
+    
+    <!-- Command Line Section -->
     <div id="command-line">
-        <p>Type or click <a class="command" onclick="navigate('intro')">intro</a>, <a class="command" onclick="navigate('articles')">articles</a>, or <a class="command" onclick="navigate('team')">team</a> to navigate:</p>
+        <p>Type or click <a class="command" onclick="navigate('blurb')">blurb</a> (or <strong>b</strong>), <a class="command" onclick="navigate('researches')">researches</a> (or <strong>r</strong>), <a class="command" onclick="navigate('articles')">articles</a> (or <strong>a</strong>), <a class="command" onclick="navigate('team')">team</a> (or <strong>t</strong>), or <a class="command" onclick="navigate('contact')">contact</a> (or <strong>c</strong>) to navigate:</p>
         <div id="command-prompt">
             <span id="prompt">guest@TensorBlock.ai:~$</span>
             <input type="text" id="commandInput" autocomplete="off">
             <span class="cursor"></span>
         </div>
         <div id="command-output" class="unknown-command"></div>
+    </div>
+
+    <!-- Dynamic content area -->
+    <div id="dynamic-content">
+        <!-- Researches Section -->
+        <div id="researches" class="section readable-content">
+            <h2>Research Papers</h2>
+            <div class="narrow-content">
+                <p>[1] Xu, Chenhao, Jiaqi Ge, Yong Li, Yao Deng, Longxiang Gao, <u><b>Morris Zhang</b></u>, Yong Xiang, and Xi Zheng. <a href="https://www.computer.org/csdl/journal/tm/2024/05/10169106/1Op7HpKwk2Q" target="_blank">"Scei: A smart-contract driven edge intelligence framework for IoT systems." IEEE Transactions on Mobile Computing (2023).</a></p>
+                <p>[2] Xu, Chenhao, Yong Li, Longxiang Gao, <u><b>Morris Zhang</b></u>, and Xi Zheng. <a href="https://ieeexplore.ieee.org/abstract/document/10463122" target="_blank">"BASS: A Blockchain-Based Asynchronous SignSGD Architecture for Efficient and Secure Federated Learning." IEEE Transactions on Dependable and Secure Computing (2024).</a></p>
+                <p>[3] <u><b>Wilson Chen</b></u> and <u><b>Morris Zhang</b></u>. <a href="https://eips.ethereum.org/EIPS/eip-7406" target="_blank">"Multi-Namespace Onchain Registry: A universally accepted multi-namespace registry with mapping structures on the Ethereum" ERC-7406.</a></p>
+                <p>[4] Shu Dong, Qi Zhou and <u><b>Wilson Chen</b></u>. <a href="https://eips.ethereum.org/EIPS/eip-4972" target="_blank">"Name-Owned Account Name-Owned Account for Social Identity" ERC-4972.</a></p>
+                <p>[5] Shu Dong, <u><b>Wilson Chen</b></u> and Peter Chen. <a href="https://eips.ethereum.org/EIPS/eip-6662" target="_blank">"AA Account Metadata For Authentication: An ERC-4337 extension to define a new authentication mode" ERC-6662.</a></p>
+            </div>
+        </div>
+
+        <!-- Articles Section -->
+        <div id="articles" class="section readable-content">
+            <h2>Articles</h2>
+            <ul>
+                <li><a href="#" onclick="displayArticle('article1')">Early thought on AI wanna share with you</a></li>
+            </ul>
+        </div>
+
+        <!-- Blurb Section -->
+        <div id="blurb" class="section readable-content">
+            <h2>Our Blurb</h2>
+            <div class="narrow-content">
+                <p>We are building the foundation for self-organizing intelligence by leveraging spare compute resources to run LLM agents. Our platform empowers self-organization among trusted parties, enabling the formation of powerful, collaborative communities.</p>
+                <p>Recently, we achieved a significant milestone by successfully hosting a state-of-the-art Llama-405B model using approximately $10k worth of heterogeneous hardware in a garage data center. This marks a crucial first step toward high-performance distributed inference through model splitting, unlocking the computing power of our community.</p>
+                <p>Our Core Contributing Team comprises engineers and researchers from Meta Crypto (Libra/Novi), Meta AI, with extensive experience in top-tier tech giants and startups.</p>
+                <ul>
+                    <li><strong>Wilson Chen</strong> - Founding Team Member of <u>Diem/Libra (Meta)</u>, Tech Lead of Meta's Instagram NFT Marketplace, Author of EIP-4972, EIP-6662, and EIP-7406, <u>Ethereum foundation grants recipient</u>. M.S. in Computer Science, <u>Northwestern University</u>.</li>
+                    <li><strong>Dr. Morris Z</strong> - Senior AI Research Scientist at <u>Meta</u>, developed advanced AI systems contributing to 95% of Meta's revenue. Former AI researcher at Microsoft. Ph.D. in CS Systems, <u>UT-Austin</u>.</li>
+                    <li><strong>Dr. Yi-Hsiu C</strong> - Applied Cryptographer at <u>Coinbase</u>, Research Scientist on the Ads Core ML team at <u>Meta</u>. Ph.D. in Theoretical Cryptography, <u>Harvard University</u>.</li>
+                    <li><strong>Dr. James Z</strong> - <u>Australian Research Council Future Fellow</u> & Director of Intelligent Systems Engineering Research Group, Macquarie University, Ph.D. in Software Engineering, <u>UT-Austin</u>.</li>
+                    <li><strong>Dean W</strong> - Associate Research Software Engineer at <u>NCSA (National Center for Supercomputing)</u>, B.S. in Computer Science, <u>University of Illinois, Urbana-Champaign</u>.</li>
+                </ul>
+                <p>We are now poised to fundraise and scale our production and research efforts.</p>
+                <p><strong>Contact Info:</strong></p>
+                <p>Telegram: <a href="https://t.me/zihaoccc" target="_blank">t.me/zihaoccc</a></p>
+                <p>Twitter: <a href="https://x.com/TensorblockAI" target="_blank">https://x.com/TensorblockAI</a></p>
+            </div>
+        </div>
+
+        <!-- Contact Section -->
+        <div id="contact" class="section readable-content">
+            <h2>Contact Info</h2>
+            <div class="narrow-content">
+                <p><strong>Telegram:</strong> <a href="https://t.me/zihaoccc" target="_blank">t.me/zihaoccc</a></p>
+                <p><strong>Twitter:</strong> <a href="https://x.com/TensorblockAI" target="_blank">https://x.com/TensorblockAI</a></p>
+            </div>
+        </div>
+
+        <!-- Article 1 Section -->
+        <div id="article1" class="section article-content readable-content">
+            <h2>Early thought on AI wanna share with you</h2>
+            <div class="narrow-content">
+                <p>AI inference today mirrors the early days of distributed systems. While machines can now connect to networks effortlessly, the software framework needed to coordinate them for distributed tasks remains absent. TensorBlock is here to bridge that gap.</p>
+                <p>We believe open-source LLMs are the ultimate destination. Just as Linux became the dominant OS for servers and laid the foundation for Android, we see open-source as the future of AI.</p>
+                <p>Our goal is to incentivize people to contribute their resources. We’re starting with GPUs, but we’ll eventually unlock more—residential IPs, bandwidth, CPUs, RAM, and storage.</p>
+                <p>We believe diversity fuels evolution. While many great models exist on Hugging Face, they lack true vitality. TensorBlock breathes life into them.</p>
+            </div>
+            <p><a class="command" onclick="navigate('articles')">back</a></p>
+        </div>
+
+        <!-- Team Section -->
+        <div id="team" class="section readable-content">
+            <h2>Our Team</h2>
+            <ul>
+                <li><strong class="highlight">Dean W:</strong> Co-founder, CEO</li>
+                <li><strong class="highlight">Morris Z:</strong> Co-founder, Chief AI Scientist</li>
+                <li><strong class="highlight">Wilson C:</strong> Co-founder, CTO</li>
+            </ul>
+        </div>
     </div>
 
     <script src="scripts.js"></script>

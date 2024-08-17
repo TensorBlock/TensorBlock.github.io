@@ -13,6 +13,10 @@ body {
     font-size: 1.5em; /* Larger font size for the banner */
 }
 
+#intro {
+    margin-bottom: 20px; /* Space below intro section */
+}
+
 .section {
     display: none;
     margin-bottom: 40px;
@@ -53,11 +57,13 @@ a:hover {
 
 #command-line {
     margin-top: 20px;
+    position: relative;
 }
 
 #command-prompt {
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 #prompt {
@@ -108,6 +114,41 @@ a:hover {
     color: #D3D3D3;
 }
 
+/* Ensure dynamic content appears below the command line */
+#dynamic-content {
+    margin-top: 20px;
+}
+
+.narrow-content {
+    max-width: 600px; /* Adjust width to make it narrower */
+    margin: 0; /* Align to the left of the window */
+    text-align: justify; /* Justify the text */
+    padding-left: 20px; /* Optional: Add padding to the left for a bit of spacing */
+}
+
+.narrow-content p {
+    margin-bottom: 20px; /* Add space between paragraphs */
+}
+
+.narrow-content ul {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+.narrow-content a {
+    color: #00FFFF;
+    text-decoration: underline;
+}
+
+#intro {
+    margin-bottom: 20px; /* Space below intro section */
+}
+
+/* Ensure dynamic content appears below the command line */
+#dynamic-content {
+    margin-top: 20px;
+}
+
 /* Responsive design */
 @media (max-width: 600px) {
     body {
@@ -135,15 +176,4 @@ a:hover {
         width: 100%;
         font-size: 1em;
     }
-}
-
-.narrow-content {
-    max-width: 600px; /* Adjust width to make it narrower */
-    margin: 0; /* Align to the left of the window */
-    text-align: justify; /* Justify the text */
-    padding-left: 20px; /* Optional: Add padding to the left for a bit of spacing */
-}
-
-.narrow-content p {
-    margin-bottom: 20px; /* Add space between paragraphs */
 }
