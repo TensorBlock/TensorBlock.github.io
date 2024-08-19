@@ -120,7 +120,7 @@ a:hover {
 }
 
 .narrow-content {
-    max-width: 600px; /* Adjust width to make it narrower */
+    max-width: 700px; /* Adjust width to make it narrower */
     margin: 0; /* Align to the left of the window */
     text-align: justify; /* Justify the text */
     padding-left: 20px; /* Optional: Add padding to the left for a bit of spacing */
@@ -138,6 +138,13 @@ a:hover {
 .narrow-content a {
     color: #00FFFF;
     text-decoration: underline;
+}
+
+.narrow-content img {
+    width: 100%; /* Make image take up the full width of the containing element */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any inline spacing around the image */
+    margin-bottom: 20px; /* Optional: Add space below the image */
 }
 
 #intro {
