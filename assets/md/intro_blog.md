@@ -9,6 +9,11 @@ In today’s AI landscape, access to powerful models is concentrated in the hand
 Moreover, legal, regulatory, and commercial barriers further restrict the deployment of these models. Issues of data privacy, intellectual property, and the lack of a suitable infrastructure prevent innovation in vertical AI from flourishing. The result is a bottleneck: **great models exist, but they have no platform.**
 
 
+<img class="in-text-img" src="assets/md/intro_img_1.png">
+
+<p class="in-text-img-caption">an open marketplace where any model</p>
+
+
 **TensorBlock was created to solve this problem.** By establishing a decentralized network for AI models, TensorBlock offers an open marketplace where any model—whether large-scale or finely tuned for niche applications—can be hosted, accessed, and deployed by the global community. **We break the limitations of model diversity,** ensuring that these vertical-specific models can thrive and reach their full potential, unburdened by the constraints of centralized control.
 
 

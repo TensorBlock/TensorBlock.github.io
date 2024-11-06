@@ -3,25 +3,30 @@
 
 ### **Decentralizing Control:** Power should never be held by the few.
 
-We are dedicated to maintaining a decentralized system that resists control by governments, corporations, or individual actors. TensorBlock's governance framework ensures that no single entity can dominate AI development or restrict access to models. Instead, control is distributed across the network, with the goal of promoting innovation and preventing power imbalances.
+<p class="custom-paragraph" style="margin-top: 24px;">We are dedicated to maintaining a decentralized system that resists control by governments, corporations, or individual actors. TensorBlock's governance framework ensures that no single entity can dominate AI development or restrict access to models. Instead, control is distributed across the network, with the goal of promoting innovation and preventing power imbalances.</p>
 
 
 
 ### **Shared Governance:** Power is meant to be distributed.
 
-We commit to upholding a decentralized consensus mechanism that reflects the collective will of the TensorBlock community. Our aim is to prevent harmful use of AI while encouraging ethical and responsible applications. Through this shared governance model, TensorBlock leverages the collective intelligence of its participants to address the challenges and complexities of AI development.
+<p class="custom-paragraph" style="margin-top: 24px;">We commit to upholding a decentralized consensus mechanism that reflects the collective will of the TensorBlock community. Our aim is to prevent harmful use of AI while encouraging ethical and responsible applications. Through this shared governance model, TensorBlock leverages the collective intelligence of its participants to address the challenges and complexities of AI development.</p>
 
 
 
 ### **Open Access and Ownership:** Contributions shape control.
 
-TensorBlock enables open participation without barriers. Those who contribute to the network, whether through computational resources, models, or other means, earn ownership and influence in the system. This ensures that the network’s direction is shaped by a wide range of contributors, fostering diversity in AI development and usage.
+<p class="custom-paragraph" style="margin-top: 24px;">TensorBlock enables open participation without barriers. Those who contribute to the network, whether through computational resources, models, or other means, earn ownership and influence in the system. This ensures that the network’s direction is shaped by a wide range of contributors, fostering diversity in AI development and usage.</p>
 
 
 
 ### **Commitment to Transparency and Open Source:** Trust is built on transparency.
 
-TensorBlock is committed to full transparency in both governance and operations. All decisions, transactions, and activities are publicly visible, ensuring that every participant has a clear view of how decisions are made. Additionally, the open-source nature of TensorBlock invites collaboration and continuous improvement, encouraging community-driven innovation and participation.
+<p class="custom-paragraph" style="margin-top: 24px;">TensorBlock is committed to full transparency in both governance and operations. All decisions, transactions, and activities are publicly visible, ensuring that every participant has a clear view of how decisions are made. Additionally, the open-source nature of TensorBlock invites collaboration and continuous improvement, encouraging community-driven innovation and participation.</p>
+
+
+<br>
+
+<img class="in-text-img" src="assets/md/declaration_img_1.png">
 
 <br>
 <br>

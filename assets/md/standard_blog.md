@@ -1,5 +1,12 @@
 TensorBlock was not created to follow this path. Unlike the tech titans of today, we are not here to consolidate but to decentralize, to create an economic framework for AI that stands apart from the monopolistic structures of old. TensorBlock introduces a standard where every contributor—from developers to miners to end-users—shares in the value, instead of serving a corporate overlord.
 
+<br>
+<br>
+
+<img class="in-text-img" src="assets/md/standard_img_1.png">
+
+<p class="in-text-img-caption">The TensorBlock Standard: The Economic Model of Decentralized AI</p>
+
 
 ### **Decentralized Ownership: A Network That Rewards Contribution, Not Control**
 

@@ -7,6 +7,11 @@ TensorBlock is the catalyst for this change. In today’s AI landscape, a small 
 TensorBlock envisions a future where AI isn’t dominated by a few general-purpose models, but where an expansive, diverse ecosystem of models thrives, accessible to anyone, anywhere.
 
 
+<img class="in-text-img" src="assets/md/about_img_1.png">
+
+<p class="in-text-img-caption">expansive, diverse ecosystem of models thrives</p>
+
+
 ### **The Historical Parallel: Diversity as the Driver of Innovation**
 
 Throughout human history, revolutions in thought and technology have been driven by diversity. Consider the Renaissance: while great minds such as Leonardo da Vinci and Michelangelo are celebrated, it was the diversity of thinkers, artists, and inventors across Europe that fueled this era of human flourishing. The same applies to AI today. The future of AI cannot be bound to a few universal models created by a handful of corporations. We need to nurture a diverse ecosystem where vertical-specific models, fine-tuned for unique and specialized tasks, can thrive and be accessed by anyone.
@@ -22,6 +27,11 @@ TensorBlock is not just another AI platform. It is the foundation of a decentral
 
 
 Mainstream AI platforms provide only a few models, like GPT and BERT, which are built for general purposes but often struggle in more nuanced, domain-specific tasks. TensorBlock democratizes access to a much wider range of AI models, enabling a network where the best models for specific tasks—whether it's analyzing medical images or predicting financial trends—can be discovered and deployed by those who need them most. **The power of TensorBlock lies in unlocking this diversity, a decentralized system where all models, large and small, are given equal opportunity to flourish.**
+
+
+<img class="in-text-img" src="assets/md/about_img_2.png">
+
+<p class="in-text-img-caption">unlocking the models diversity</p>
 
 
 ### **Digital Commodities and the Open Market of Intelligence**
@@ -46,6 +56,11 @@ TensorBlock believes that diversity drives evolution. Specialized models, create
 
 
 TensorBlock’s decentralized architecture means that no single entity controls access or usage, ensuring that AI’s future is open, collaborative, and fair. Much like the democratization of information through the internet, TensorBlock ensures that AI becomes a shared resource, owned by the community and not by a privileged few.
+
+
+<img class="in-text-img" src="assets/md/about_img_3.png">
+
+<p class="in-text-img-caption">The Future of AI Belongs to Many, Not the Few</p>
 
 
 ### **Become a Part of the TensorBlock Revolution**
