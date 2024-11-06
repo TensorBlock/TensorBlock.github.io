@@ -6,7 +6,9 @@
         // Save the original path and search query
         var path = window.location.pathname + window.location.search;
         // Redirect to the home page using hash routing
+        console.log("/index.html#" + path);
         window.location.href = "/index.html#" + path;
+        console.log(window.location.href);
     </script>
 </head>
 <body>
