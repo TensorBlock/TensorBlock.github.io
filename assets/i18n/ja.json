@@ -1,4 +1,7 @@
 {
+  "LANGUAGE": {
+    "CURRENT": "日本語"
+  },
   "HOME": {
     "TITLE": "TensorBlock",
     "SUBTITLE_1": "分散型オープンAIの先駆者",

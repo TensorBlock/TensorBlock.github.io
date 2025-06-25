@@ -1,4 +1,7 @@
 {
+  "LANGUAGE": {
+    "CURRENT": "简体中文"
+  },
   "HOME": {
     "TITLE": "TensorBlock",
     "SUBTITLE_1": "开创去中心化开放AI",

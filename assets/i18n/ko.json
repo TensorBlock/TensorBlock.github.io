@@ -1,4 +1,7 @@
 {
+  "LANGUAGE": {
+    "CURRENT": "한국어"
+  },
   "HOME": {
     "TITLE": "TensorBlock",
     "SUBTITLE_1": "분산형 오픈 AI의 선구자",
