@@ -1,0 +1,143 @@
+{
+  "HOME": {
+    "TITLE": "TensorBlock",
+    "SUBTITLE_1": "分散型オープンAIの先駆者",
+    "SUBTITLE_2": "———— すべてのモデルと推論を強化",
+    "DESCRIPTION": "AIイノベーションを推進する多様で活発なオープンソースLLMコミュニティを構築。",
+    "LEARN_MORE": "詳細を見る"
+  },
+  "NAV": {
+    "ABOUT": "概要",
+    "SOLUTIONS": "ソリューション",
+    "EXPLORE": "探索",
+    "CONNECT": "接続",
+    "FORGE": "Forge",
+    "STUDIO": "Studio",
+    "MCP_SERVER": "MCPサーバー (近日公開)",
+    "INTRO": "紹介",
+    "STANDARD": "標準",
+    "DECLARATION": "宣言",
+    "TWITTER": "Twitter",
+    "GITHUB": "Github",
+    "HUGGINGFACE": "HuggingFace"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "© 2024-2025 TensorBlock™. All Rights Reserved."
+  },
+  "FORGE": {
+    "MASTER_KEY": "TensorBlock AIユニバースへのマスターキー",
+    "CONQUER_AI": "AIの複雑さを征服。",
+    "UNLEASH_ECOSYSTEM": "エコシステムを解放。瞬時に。",
+    "DESCRIPTION": "Forgeは、マルチプロバイダーAIと断片化されたツールの摩擦を取り除き、モデルからサービス、インフラストラクチャまで、すべてをオーケストレーションするための超安全で高性能なコマンドセンターを提供します。",
+    "TRY_NOW": "今すぐForgeを試す",
+    "ONE_KEY_TITLE": "1つのキー。AIへの完全アクセス。",
+    "INFINITE_INNOVATION": "無限のイノベーション。",
+    "UNLOCK_POWER": "ForgeでAIの全パワーを解き放つ。",
+    "FEATURES": {
+      "CENTRALIZED_ACCESS": "すべてのモデルとプロバイダーへの一元化されたアクセス",
+      "SECURITY": "破られないセキュリティと認証情報管理",
+      "ORCHESTRATION": "リアルタイムオーケストレーション、フォールバック、タスクルーティング",
+      "OPERATIONS": "効率化された運用とコスト管理",
+      "SINGLE_KEY": "TensorBlockエコシステム全体にアクセスするための単一のForgeキー"
+    },
+    "PERFORMANCE": {
+      "TITLE": "量子飛躍的なパフォーマンス",
+      "LIGHTNING_FAST": {
+        "TITLE": "超高速AIコール",
+        "DESC": "Forgeのダイナミックベロシティエンジンによる予測キャッシュとストリームレベルのオーケストレーション"
+      },
+      "SCALABLE": {
+        "TITLE": "設計によるスケーラビリティ",
+        "DESC": "軽量なインタラクションから大規模なエージェントワークロードまで、ほぼゼロレイテンシで処理"
+      }
+    },
+    "ECOSYSTEM": {
+      "TITLE_1": "エコシステム全体の",
+      "TITLE_2": "要塞セキュリティ",
+      "BANK_GRADE": {
+        "TITLE": "銀行レベルの暗号化",
+        "DESC": "すべてのプロバイダーキーと認証情報用"
+      },
+      "KEY_ROTATION": {
+        "TITLE": "高度なキーローテーション",
+        "DESC": "KMSサポート付きエンベロープ暗号化"
+      },
+      "PRIVACY": {
+        "TITLE": "ZK駆動のプライバシー：",
+        "DESC": "設計による検証可能な機密性"
+      }
+    },
+    "INTELLIGENCE": {
+      "TITLE_1": "インテリジェントAI",
+      "TITLE_2": "オーケストレーション",
+      "SMART_ROUTING": {
+        "TITLE": "スマートルーティング",
+        "DESC": "コスト、パフォーマンス、または機能に基づいて最適なプロバイダーにタスクを送信"
+      },
+      "FALLBACKS": {
+        "TITLE": "自動フォールバック",
+        "DESC": "障害や遅延時に即座に再ルーティング、リクエストを見逃すことはありません"
+      },
+      "UNIFIED_ACCESS": {
+        "TITLE": "統合モデル＆サービスアクセス",
+        "DESC": "1つのAPIキーで完全な制御"
+      }
+    },
+    "VISIBILITY": {
+      "TITLE": "完全な可視性とコスト管理",
+      "ANALYTICS": {
+        "TITLE": "詳細な使用分析",
+        "DESC": "すべてのプロバイダー、モデル、アプリケーションでの使用を追跡"
+      },
+      "MONITORING": {
+        "TITLE": "リアルタイムコストモニタリング",
+        "DESC": "異常を検出し、支出を最適化し、責任あるスケーリングを実現"
+      }
+    },
+    "ACCESS_CONTROL": {
+      "TITLE_1": "シームレスなアクセス制御",
+      "TITLE_2": "と開発者体験",
+      "PERMISSIONS": {
+        "TITLE": "きめ細かい権限",
+        "DESC": "どのアプリケーションがどのサービスにアクセスできるかを正確に制御"
+      },
+      "CLI": {
+        "TITLE": "パワフルなCLI",
+        "DESC": "単一のコマンドラインインターフェースでデプロイ、キー、使用状況をすべて管理"
+      }
+    },
+    "INTEGRATION": {
+      "TITLE": "シームレスな統合のために構築",
+      "OPENAI": {
+        "TITLE": "OpenAI互換",
+        "DESC": "既存のOpenAIベースのアプリケーションに直接置き換え可能"
+      },
+      "TENSORBLOCK": {
+        "TITLE": "TensorBlock対応",
+        "DESC": "すべてのTensorBlockサービスを即座にアンロックしてオーケストレーション"
+      },
+      "FUTURE": {
+        "TITLE": "将来性対応",
+        "DESC": "新しいモデル、プロバイダー、またはエージェントに簡単に拡張"
+      }
+    },
+    "EXTRA": {
+      "PASSPORT": "TensorBlockエコシステムへのパスポート",
+      "KEY_DESC_1": "Forgeキーは単なるAPI認証情報以上のものです",
+      "KEY_DESC_2": "— それはTensorBlockのすべてへの安全なゲートウェイです：",
+      "FEATURES": {
+        "ENGINES": "AIエンジンのモジュラー実行",
+        "RUNTIMES": "検証可能なAIランタイム",
+        "NETWORK": "オーケストレーションされたコンピュートネットワーク",
+        "TOOLCHAINS": "マルチプロバイダーツールチェーン"
+      },
+      "SUMMARY": "Forgeは、AIスタックを安全かつインテリジェントに制御、スケール、強化するための中央ハブです。",
+      "MOTTO": "複雑さを征服。スタックを制御。イノベーションを加速。",
+      "ADVANTAGE": "AIアドバンテージを鍛造",
+      "BONUS": {
+        "TITLE": "ボーナス",
+        "DESC": "Forgeキーで、TensorBlockノードで実行される最先端モデルへの独占的な早期アクセスをアンロック — 市場の他のどこにもないモデルです。"
+      }
+    }
+  }
+} 

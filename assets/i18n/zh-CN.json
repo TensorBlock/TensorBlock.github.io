@@ -1,0 +1,143 @@
+{
+  "HOME": {
+    "TITLE": "TensorBlock",
+    "SUBTITLE_1": "开创去中心化开放AI",
+    "SUBTITLE_2": "———— 赋能每个模型和推理",
+    "DESCRIPTION": "构建多元化、活跃的开源LLM社区，推动AI创新。",
+    "LEARN_MORE": "了解更多"
+  },
+  "NAV": {
+    "ABOUT": "关于",
+    "SOLUTIONS": "解决方案",
+    "EXPLORE": "探索",
+    "CONNECT": "连接",
+    "FORGE": "Forge",
+    "STUDIO": "Studio",
+    "MCP_SERVER": "MCP服务器 (即将推出)",
+    "INTRO": "介绍",
+    "STANDARD": "标准",
+    "DECLARATION": "声明",
+    "TWITTER": "Twitter",
+    "GITHUB": "Github",
+    "HUGGINGFACE": "HuggingFace"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "© 2024-2025 TensorBlock™. 保留所有权利。"
+  },
+  "FORGE": {
+    "MASTER_KEY": "通往TensorBlock AI宇宙的主密钥",
+    "CONQUER_AI": "征服AI复杂性。",
+    "UNLEASH_ECOSYSTEM": "释放您的生态系统。即刻。",
+    "DESCRIPTION": "Forge消除了多提供商AI和分散工具带来的摩擦，为您提供一个超安全、高性能的指挥中心，用于编排从模型到服务再到基础设施的一切。",
+    "TRY_NOW": "立即试用Forge",
+    "ONE_KEY_TITLE": "一把钥匙。全面AI访问。",
+    "INFINITE_INNOVATION": "无限创新。",
+    "UNLOCK_POWER": "通过Forge释放AI的全部力量。",
+    "FEATURES": {
+      "CENTRALIZED_ACCESS": "集中访问所有模型和提供商",
+      "SECURITY": "牢不可破的安全性和凭证管理",
+      "ORCHESTRATION": "实时编排、故障转移和任务路由",
+      "OPERATIONS": "精简运营和成本控制",
+      "SINGLE_KEY": "一把Forge密钥访问整个TensorBlock生态系统"
+    },
+    "PERFORMANCE": {
+      "TITLE": "量子级性能",
+      "LIGHTNING_FAST": {
+        "TITLE": "闪电般快速的AI调用",
+        "DESC": "由Forge的动态速度引擎提供支持，具有预测缓存和流级编排"
+      },
+      "SCALABLE": {
+        "TITLE": "设计可扩展",
+        "DESC": "处理从轻量级交互到大规模代理工作负载，几乎零延迟"
+      }
+    },
+    "ECOSYSTEM": {
+      "TITLE_1": "生态系统级",
+      "TITLE_2": "堡垒安全",
+      "BANK_GRADE": {
+        "TITLE": "银行级加密",
+        "DESC": "适用于所有提供商密钥和凭证"
+      },
+      "KEY_ROTATION": {
+        "TITLE": "高级密钥轮换",
+        "DESC": "支持KMS的信封加密"
+      },
+      "PRIVACY": {
+        "TITLE": "ZK驱动的隐私：",
+        "DESC": "设计保证的可验证机密性"
+      }
+    },
+    "INTELLIGENCE": {
+      "TITLE_1": "智能AI",
+      "TITLE_2": "编排",
+      "SMART_ROUTING": {
+        "TITLE": "智能路由",
+        "DESC": "根据成本、性能或能力将任务发送到最佳提供商"
+      },
+      "FALLBACKS": {
+        "TITLE": "自动故障转移",
+        "DESC": "在中断或延迟时即时重路由，永不丢失请求"
+      },
+      "UNIFIED_ACCESS": {
+        "TITLE": "统一模型和服务访问",
+        "DESC": "一个API密钥，完全控制"
+      }
+    },
+    "VISIBILITY": {
+      "TITLE": "全面可见性和成本控制",
+      "ANALYTICS": {
+        "TITLE": "细粒度使用分析",
+        "DESC": "跟踪所有提供商、模型和应用程序的使用情况"
+      },
+      "MONITORING": {
+        "TITLE": "实时成本监控",
+        "DESC": "发现异常、优化支出、负责任地扩展"
+      }
+    },
+    "ACCESS_CONTROL": {
+      "TITLE_1": "轻松访问控制",
+      "TITLE_2": "和开发体验",
+      "PERMISSIONS": {
+        "TITLE": "细粒度权限",
+        "DESC": "精确控制哪些应用程序可以访问哪些服务"
+      },
+      "CLI": {
+        "TITLE": "强大的CLI",
+        "DESC": "使用单一命令行界面管理一切 — 部署、密钥、使用情况"
+      }
+    },
+    "INTEGRATION": {
+      "TITLE": "为无缝集成而构建",
+      "OPENAI": {
+        "TITLE": "OpenAI兼容",
+        "DESC": "直接替代现有的OpenAI驱动应用程序"
+      },
+      "TENSORBLOCK": {
+        "TITLE": "TensorBlock就绪",
+        "DESC": "立即解锁和编排所有TensorBlock服务"
+      },
+      "FUTURE": {
+        "TITLE": "面向未来",
+        "DESC": "轻松扩展到新模型、提供商或代理"
+      }
+    },
+    "EXTRA": {
+      "PASSPORT": "通往TensorBlock生态系统的护照",
+      "KEY_DESC_1": "您的Forge密钥不仅仅是API凭证",
+      "KEY_DESC_2": "— 它是通往TensorBlock一切的网关：",
+      "FEATURES": {
+        "ENGINES": "AI引擎的模块化执行",
+        "RUNTIMES": "可验证的AI运行时",
+        "NETWORK": "编排的计算网络",
+        "TOOLCHAINS": "多提供商工具链"
+      },
+      "SUMMARY": "Forge是您控制、扩展和增强AI堆栈的中心枢纽 — 安全且智能。",
+      "MOTTO": "征服复杂性。控制您的堆栈。加速创新。",
+      "ADVANTAGE": "锻造您的AI优势",
+      "BONUS": {
+        "TITLE": "额外福利",
+        "DESC": "使用您的Forge密钥，解锁在TensorBlock节点上运行的尖端模型的独家早期访问 — 这些模型在市场上其他地方都找不到。"
+      }
+    }
+  }
+} 

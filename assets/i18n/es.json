@@ -1,0 +1,143 @@
+{
+  "HOME": {
+    "TITLE": "TensorBlock",
+    "SUBTITLE_1": "Pionero en IA Descentralizada Abierta",
+    "SUBTITLE_2": "———— Potenciando Cada Modelo e Inferencia",
+    "DESCRIPTION": "Construyendo una comunidad diversa y activa de LLM de código abierto para impulsar la innovación en IA.",
+    "LEARN_MORE": "Aprende Más"
+  },
+  "NAV": {
+    "ABOUT": "Acerca de",
+    "SOLUTIONS": "Soluciones",
+    "EXPLORE": "Explorar",
+    "CONNECT": "Conectar",
+    "FORGE": "Forge",
+    "STUDIO": "Studio",
+    "MCP_SERVER": "Servidor MCP (Próximamente)",
+    "INTRO": "Introducción",
+    "STANDARD": "Estándar",
+    "DECLARATION": "Declaración",
+    "TWITTER": "Twitter",
+    "GITHUB": "Github",
+    "HUGGINGFACE": "HuggingFace"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "© 2024-2025 TensorBlock™. Todos los derechos reservados."
+  },
+  "FORGE": {
+    "MASTER_KEY": "Tu Llave Maestra al Universo IA de TensorBlock",
+    "CONQUER_AI": "Conquista la Complejidad de la IA.",
+    "UNLEASH_ECOSYSTEM": "Libera tu Ecosistema. Instantáneamente.",
+    "DESCRIPTION": "Forge elimina la fricción de la IA multi-proveedor y las herramientas fragmentadas, dándote un centro de mando ultra-seguro y de alto rendimiento para orquestar todo — desde modelos hasta servicios e infraestructura.",
+    "TRY_NOW": "Prueba Forge Ahora",
+    "ONE_KEY_TITLE": "Una Llave. Acceso Total a la IA.",
+    "INFINITE_INNOVATION": "Innovación Infinita.",
+    "UNLOCK_POWER": "Desbloquea todo el poder de la IA con Forge.",
+    "FEATURES": {
+      "CENTRALIZED_ACCESS": "Acceso centralizado a todos los modelos y proveedores",
+      "SECURITY": "Seguridad inquebrantable y gestión de credenciales",
+      "ORCHESTRATION": "Orquestación en tiempo real, respaldo y enrutamiento de tareas",
+      "OPERATIONS": "Operaciones optimizadas y control de costos",
+      "SINGLE_KEY": "Una única Llave Forge para acceder a todo el ecosistema TensorBlock"
+    },
+    "PERFORMANCE": {
+      "TITLE": "Rendimiento de Salto Cuántico",
+      "LIGHTNING_FAST": {
+        "TITLE": "Llamadas IA Ultra-rápidas",
+        "DESC": "Impulsado por el Motor de Velocidad Dinámica de Forge, con caché predictiva y orquestación a nivel de flujo"
+      },
+      "SCALABLE": {
+        "TITLE": "Escalable por Diseño",
+        "DESC": "Maneja desde interacciones ligeras hasta cargas masivas de agentes con latencia casi cero"
+      }
+    },
+    "ECOSYSTEM": {
+      "TITLE_1": "Seguridad de Fortaleza",
+      "TITLE_2": "en Todo el Ecosistema",
+      "BANK_GRADE": {
+        "TITLE": "Encriptación de Grado Bancario",
+        "DESC": "para todas tus claves y credenciales de proveedores"
+      },
+      "KEY_ROTATION": {
+        "TITLE": "Rotación Avanzada de Claves",
+        "DESC": "y encriptación de sobre con soporte KMS"
+      },
+      "PRIVACY": {
+        "TITLE": "Privacidad con ZK:",
+        "DESC": "confidencialidad verificable por diseño"
+      }
+    },
+    "INTELLIGENCE": {
+      "TITLE_1": "Orquestación IA",
+      "TITLE_2": "Inteligente",
+      "SMART_ROUTING": {
+        "TITLE": "Enrutamiento Inteligente",
+        "DESC": "Envía tareas al mejor proveedor según costo, rendimiento o capacidad"
+      },
+      "FALLBACKS": {
+        "TITLE": "Respaldo Automatizado",
+        "DESC": "Nunca pierdas una solicitud — redirecciona instantáneamente durante interrupciones o lentitud"
+      },
+      "UNIFIED_ACCESS": {
+        "TITLE": "Acceso Unificado a Modelos y Servicios",
+        "DESC": "Una clave API, control total"
+      }
+    },
+    "VISIBILITY": {
+      "TITLE": "Visibilidad Total y Control de Costos",
+      "ANALYTICS": {
+        "TITLE": "Análisis Granular de Uso",
+        "DESC": "Rastrea el uso en todos los proveedores, modelos y aplicaciones"
+      },
+      "MONITORING": {
+        "TITLE": "Monitoreo de Costos en Tiempo Real",
+        "DESC": "Detecta anomalías, optimiza gastos y escala responsablemente"
+      }
+    },
+    "ACCESS_CONTROL": {
+      "TITLE_1": "Control de Acceso Sin Esfuerzo",
+      "TITLE_2": "y Experiencia de Desarrollo",
+      "PERMISSIONS": {
+        "TITLE": "Permisos Granulares",
+        "DESC": "Controla exactamente qué aplicaciones pueden acceder a qué servicios"
+      },
+      "CLI": {
+        "TITLE": "CLI Potente",
+        "DESC": "Gestiona todo — despliegues, claves, uso — con una única interfaz de línea de comandos"
+      }
+    },
+    "INTEGRATION": {
+      "TITLE": "Construido para Integración Perfecta",
+      "OPENAI": {
+        "TITLE": "Compatible con OpenAI",
+        "DESC": "Reemplazo directo para aplicaciones existentes basadas en OpenAI"
+      },
+      "TENSORBLOCK": {
+        "TITLE": "Listo para TensorBlock",
+        "DESC": "Desbloquea e orquesta instantáneamente todos los servicios TensorBlock"
+      },
+      "FUTURE": {
+        "TITLE": "Preparado para el Futuro",
+        "DESC": "Expande fácilmente a nuevos modelos, proveedores o agentes"
+      }
+    },
+    "EXTRA": {
+      "PASSPORT": "Tu Pasaporte al Ecosistema TensorBlock",
+      "KEY_DESC_1": "Tu Llave Forge es más que una simple credencial API",
+      "KEY_DESC_2": "— es tu puerta de entrada segura a todo TensorBlock:",
+      "FEATURES": {
+        "ENGINES": "Ejecución modular de motores IA",
+        "RUNTIMES": "Entornos de ejecución IA verificables",
+        "NETWORK": "Red de cómputo orquestada",
+        "TOOLCHAINS": "Cadenas de herramientas multi-proveedor"
+      },
+      "SUMMARY": "Forge es tu centro central para controlar, escalar y potenciar tu pila de IA — de forma segura e inteligente.",
+      "MOTTO": "Conquista la complejidad. Controla tu pila. Acelera la innovación.",
+      "ADVANTAGE": "Forja tu Ventaja en IA",
+      "BONUS": {
+        "TITLE": "Bono",
+        "DESC": "Con tu Llave Forge, desbloquea acceso anticipado exclusivo a modelos de vanguardia ejecutándose en Nodos TensorBlock—modelos que no encontrarás en ningún otro lugar del mercado."
+      }
+    }
+  }
+} 

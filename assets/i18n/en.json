@@ -1,0 +1,143 @@
+{
+  "HOME": {
+    "TITLE": "TensorBlock",
+    "SUBTITLE_1": "Pioneering Decentralized Open AI",
+    "SUBTITLE_2": "———— Powering Every Model and Inference",
+    "DESCRIPTION": "Building a diverse, active open-source LLM community to drive AI innovation.",
+    "LEARN_MORE": "Learn More"
+  },
+  "NAV": {
+    "ABOUT": "About",
+    "SOLUTIONS": "Solutions",
+    "EXPLORE": "Explore",
+    "CONNECT": "Connect",
+    "FORGE": "Forge",
+    "STUDIO": "Studio",
+    "MCP_SERVER": "MCP Server (Coming Soon)",
+    "INTRO": "Intro",
+    "STANDARD": "Standard",
+    "DECLARATION": "Declaration",
+    "TWITTER": "Twitter",
+    "GITHUB": "Github",
+    "HUGGINGFACE": "HuggingFace"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "© 2024-2025 TensorBlock™. All Rights Reserved."
+  },
+  "FORGE": {
+    "MASTER_KEY": "Your Master Key to the TensorBlock AI Universe",
+    "CONQUER_AI": "Conquer AI Complexity.",
+    "UNLEASH_ECOSYSTEM": "Unleash Your Ecosystem. Instantly.",
+    "DESCRIPTION": "Forge removes the friction of multi-provider AI and fragmented tooling, giving you one ultra-secure, high-performance command center to orchestrate everything — from models to services to infrastructure.",
+    "TRY_NOW": "Try Forge Now",
+    "ONE_KEY_TITLE": "One Key. Total AI Access.",
+    "INFINITE_INNOVATION": "Infinite Innovation.",
+    "UNLOCK_POWER": "Unlock the full power of AI with Forge.",
+    "FEATURES": {
+      "CENTRALIZED_ACCESS": "Centralized access across all models and providers",
+      "SECURITY": "Unbreakable security and credential management",
+      "ORCHESTRATION": "Realtime orchestration, fallback, and task routing",
+      "OPERATIONS": "Streamlined operations and cost control",
+      "SINGLE_KEY": "A single Forge Key to access the entire TensorBlock ecosystem"
+    },
+    "PERFORMANCE": {
+      "TITLE": "Quantum-Leap Performance",
+      "LIGHTNING_FAST": {
+        "TITLE": "Lightning-Fast AI Calls",
+        "DESC": "Powered by Forge's Dynamic Velocity Engine, with predictive caching and stream-level orchestration"
+      },
+      "SCALABLE": {
+        "TITLE": "Scalable by Design",
+        "DESC": "Handle anything from lightweight interactions to massive agent workloads with near-zero latency"
+      }
+    },
+    "ECOSYSTEM": {
+      "TITLE_1": "Ecosystem-Wide",
+      "TITLE_2": "Fortress Security",
+      "BANK_GRADE": {
+        "TITLE": "Bank-Grade Encryption",
+        "DESC": "for all your provider keys and credentials"
+      },
+      "KEY_ROTATION": {
+        "TITLE": "Advanced Key Rotation",
+        "DESC": "& envelope encryption with KMS support"
+      },
+      "PRIVACY": {
+        "TITLE": "ZK-Powered Privacy:",
+        "DESC": "verifiable confidentiality by design"
+      }
+    },
+    "INTELLIGENCE": {
+      "TITLE_1": "Intelligent AI",
+      "TITLE_2": "Orchestration",
+      "SMART_ROUTING": {
+        "TITLE": "Smart Routing",
+        "DESC": "Send tasks to the best provider based on cost, performance, or capability"
+      },
+      "FALLBACKS": {
+        "TITLE": "Automated Fallbacks",
+        "DESC": "Never miss a request — reroute instantly during outages or slowness"
+      },
+      "UNIFIED_ACCESS": {
+        "TITLE": "Unified Model & Service Access",
+        "DESC": "One API key, full control"
+      }
+    },
+    "VISIBILITY": {
+      "TITLE": "Total Visibility & Cost Control",
+      "ANALYTICS": {
+        "TITLE": "Granular Usage Analytics",
+        "DESC": "Track usage across all providers, models, and apps"
+      },
+      "MONITORING": {
+        "TITLE": "Live Cost Monitoring",
+        "DESC": "Spot anomalies, optimize spend, and scale responsibly"
+      }
+    },
+    "ACCESS_CONTROL": {
+      "TITLE_1": "Effortless Access Control",
+      "TITLE_2": "& Dev Experience",
+      "PERMISSIONS": {
+        "TITLE": "Fine-Grained Permissions",
+        "DESC": "Control exactly which apps can access which services"
+      },
+      "CLI": {
+        "TITLE": "Powerful CLI",
+        "DESC": "Manage everything — deployments, keys, usage — with a single command line interface"
+      }
+    },
+    "INTEGRATION": {
+      "TITLE": "Built for Seamless Integration",
+      "OPENAI": {
+        "TITLE": "OpenAI-Compatible",
+        "DESC": "Drop-in for existing OpenAI-powered apps"
+      },
+      "TENSORBLOCK": {
+        "TITLE": "TensorBlock-Ready",
+        "DESC": "Instantly unlock and orchestrate all TensorBlock services"
+      },
+      "FUTURE": {
+        "TITLE": "Future-Proof",
+        "DESC": "Easily expand to new models, providers, or agents"
+      }
+    },
+    "EXTRA": {
+      "PASSPORT": "Your Passport to the TensorBlock Ecosystem",
+      "KEY_DESC_1": "Your Forge Key is more than just an API credential",
+      "KEY_DESC_2": "— it's your secure gateway to everything TensorBlock:",
+      "FEATURES": {
+        "ENGINES": "Modular execution of AI engines",
+        "RUNTIMES": "Verifiable AI runtimes",
+        "NETWORK": "Orchestrated compute network",
+        "TOOLCHAINS": "Multi-provider toolchains"
+      },
+      "SUMMARY": "Forge is your central hub to control, scale, and supercharge your AI stack — securely and intelligently.",
+      "MOTTO": "Conquer complexity. Control your stack. Accelerate innovation.",
+      "ADVANTAGE": "Forge Your AI Advantage",
+      "BONUS": {
+        "TITLE": "Bonus",
+        "DESC": "With your Forge Key, unlock exclusive early access to cutting-edge models running on TensorBlock Nodes—models you won't find anywhere else in the market."
+      }
+    }
+  }
+} 
