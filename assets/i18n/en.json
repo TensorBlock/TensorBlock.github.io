@@ -10,6 +10,7 @@
     "LEARN_MORE": "Learn More"
   },
   "NAV": {
+    "HOME": "Home",
     "ABOUT": "About",
     "SOLUTIONS": "Solutions",
     "EXPLORE": "Explore",
@@ -20,9 +21,13 @@
     "INTRO": "Intro",
     "STANDARD": "Standard",
     "DECLARATION": "Declaration",
+    "PRIVACY": "Privacy",
+    "TERMS": "Terms",
     "TWITTER": "Twitter",
     "GITHUB": "Github",
-    "HUGGINGFACE": "HuggingFace"
+    "HUGGINGFACE": "HuggingFace",
+    "DISCORD": "Discord",
+    "EMAIL": "Email"
   },
   "FOOTER": {
     "COPYRIGHT": "© 2024-2025 TensorBlock™. All Rights Reserved."

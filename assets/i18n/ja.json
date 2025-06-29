@@ -10,6 +10,7 @@
     "LEARN_MORE": "詳細を見る"
   },
   "NAV": {
+    "HOME": "ホーム",
     "ABOUT": "概要",
     "SOLUTIONS": "ソリューション",
     "EXPLORE": "探索",
@@ -20,9 +21,13 @@
     "INTRO": "紹介",
     "STANDARD": "標準",
     "DECLARATION": "宣言",
+    "PRIVACY": "プライバシー",
+    "TERMS": "利用規約",
     "TWITTER": "Twitter",
     "GITHUB": "Github",
-    "HUGGINGFACE": "HuggingFace"
+    "HUGGINGFACE": "HuggingFace",
+    "DISCORD": "Discord",
+    "EMAIL": "メール"
   },
   "FOOTER": {
     "COPYRIGHT": "© 2024-2025 TensorBlock™. All Rights Reserved."

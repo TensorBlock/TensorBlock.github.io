@@ -10,6 +10,7 @@
     "LEARN_MORE": "了解更多"
   },
   "NAV": {
+    "HOME": "首頁",
     "ABOUT": "關於",
     "SOLUTIONS": "解決方案",
     "EXPLORE": "探索",
@@ -20,9 +21,13 @@
     "INTRO": "介紹",
     "STANDARD": "標準",
     "DECLARATION": "聲明",
+    "PRIVACY": "隱私",
+    "TERMS": "條款",
     "TWITTER": "Twitter",
     "GITHUB": "Github",
-    "HUGGINGFACE": "HuggingFace"
+    "HUGGINGFACE": "HuggingFace",
+    "DISCORD": "Discord",
+    "EMAIL": "郵箱"
   },
   "FOOTER": {
     "COPYRIGHT": "© 2024-2025 TensorBlock™. 保留所有權利。"

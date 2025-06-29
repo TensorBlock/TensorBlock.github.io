@@ -10,6 +10,7 @@
     "LEARN_MORE": "자세히 보기"
   },
   "NAV": {
+    "HOME": "홈",
     "ABOUT": "소개",
     "SOLUTIONS": "솔루션",
     "EXPLORE": "탐색",
@@ -20,9 +21,13 @@
     "INTRO": "소개",
     "STANDARD": "표준",
     "DECLARATION": "선언",
+    "PRIVACY": "개인정보 보호",
+    "TERMS": "이용약관",
     "TWITTER": "Twitter",
     "GITHUB": "Github",
-    "HUGGINGFACE": "HuggingFace"
+    "HUGGINGFACE": "HuggingFace",
+    "DISCORD": "Discord",
+    "EMAIL": "이메일"
   },
   "FOOTER": {
     "COPYRIGHT": "© 2024-2025 TensorBlock™. All Rights Reserved."
