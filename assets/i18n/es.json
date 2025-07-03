@@ -7,7 +7,48 @@
     "SUBTITLE_1": "Pionero en IA Descentralizada Abierta",
     "SUBTITLE_2": "———— Potenciando Cada Modelo e Inferencia",
     "DESCRIPTION": "Construyendo una comunidad diversa y activa de LLM de código abierto para impulsar la innovación en IA.",
-    "LEARN_MORE": "Aprende Más"
+    "LEARN_MORE": "Aprende Más",
+    "TAGLINE": "IA para Todos. Accesible. Abierta. Justa.",
+    "PARTNERING_TITLE": "Colaborando con Innovadores Globales",
+    "VISION": {
+      "TITLE": "Nuestra Visión",
+      "DESCRIPTION": "Nuestra visión es habilitar una nueva era de agentes inteligentes haciendo que la infraestructura de IA sea abierta, componible y accesible para todos.",
+      "DETAILED": "Creemos que el futuro de la IA no está en modelos monolíticos, sino en redes dinámicas de agentes autónomos — sistemas que pueden percibir, razonar y actuar en diversos entornos. Para desbloquear este futuro, la infraestructura fundamental debe ser democratizada: modular, interoperable y fácil de adoptar. Estamos construyendo hacia un mundo donde cualquiera — desde desarrolladores individuales hasta comunidades globales — puede participar en la creación y evolución de agentes inteligentes."
+    },
+    "SOLUTIONS": {
+      "TITLE": "Soluciones",
+      "FORGE": {
+        "TITLE": "Forge es tu puerta de entrada unificada al mundo de la IA.",
+        "DESCRIPTION": "Con una clave segura, accede y orquesta modelos a través de proveedores — con enrutamiento inteligente, encriptación de nivel empresarial, conmutación por error automatizada y control de costos en tiempo real. Construido para velocidad, escala e integración perfecta.",
+        "LEARN_MORE": "Aprende Más"
+      },
+      "STUDIO": {
+        "TITLE": "TensorBlock Studio es un espacio de trabajo de IA ligero y amigable para desarrolladores, construido para claridad, control y creatividad.",
+        "DESCRIPTION": "Con una clave segura, accede y orquesta modelos a través de proveedores — con enrutamiento inteligente, encriptación de nivel empresarial, conmutación por error automatizada y control de costos en tiempo real. Construido para velocidad, escala e integración perfecta.",
+        "LEARN_MORE": "Aprende Más"
+      },
+      "MCP_HUB": {
+        "TITLE": "MCP Hub es tu puerta de entrada al ecosistema del Protocolo de Contexto de Modelo.",
+        "DESCRIPTION": "Ofrece un conjunto curado de servidores MCP, desplegables en la nube con soporte seguro, eficiente y multi-tenant. MCP Hub enruta inteligentemente las solicitudes al servidor más adecuado basándose en tus necesidades — habilitando entrega de servicios de IA escalable, confiable y optimizada.",
+        "LEARN_MORE": "Únete a la Lista de Espera"
+      }
+    },
+    "PLATFORMS": {
+      "TITLE_1": "Plataformas y modelos",
+      "TITLE_2": "para construir relaciones con nosotros"
+    },
+    "LAYERED_APPROACH": {
+      "TITLE_1": "Enfoque",
+      "TITLE_2": "En Capas de TensorBlock",
+      "MATRIX": "Orquestación de recursos a través del cómputo",
+      "CELL": "Aislamiento de runtime para ejecución",
+      "REACTOR": "Lógica conectable para tareas de IA",
+      "FORGE": "Capa de despacho enrutando solicitudes",
+      "STUDIO": "Capa UX para Usuarios y Agentes"
+    },
+    "CONNECTED": {
+      "TITLE": "Mantente Conectado"
+    }
   },
   "NAV": {
     "HOME": "Inicio",

@@ -7,7 +7,48 @@
     "SUBTITLE_1": "Pioneering Decentralized Open AI",
     "SUBTITLE_2": "———— Powering Every Model and Inference",
     "DESCRIPTION": "Building a diverse, active open-source LLM community to drive AI innovation.",
-    "LEARN_MORE": "Learn More"
+    "LEARN_MORE": "Learn More",
+    "TAGLINE": "AI for All. Accessible. Open. Fair.",
+    "PARTNERING_TITLE": "Partnering with Global Innovators",
+    "VISION": {
+      "TITLE": "Our Vision",
+      "DESCRIPTION": "Our vision is to enable a new era of intelligent agents by making AI infrastructure open, composable, and accessible to all.",
+      "DETAILED": "We believe the future of AI lies not in monolithic models, but in dynamic networks of autonomous agents — systems that can perceive, reason, and act across diverse environments. To unlock this future, the foundational infrastructure must be democratized: modular, interoperable, and easy to adopt. We're building toward a world where anyone — from individual developers to global communities — can participate in the creation and evolution of intelligent agents."
+    },
+    "SOLUTIONS": {
+      "TITLE": "Solutions",
+      "FORGE": {
+        "TITLE": "Forge is your unified gateway to the AI world.",
+        "DESCRIPTION": "With one secure key, access and orchestrate models across providers — with intelligent routing, enterprise-grade encryption, automated failover, and real-time cost control. Built for speed, scale, and seamless integration.",
+        "LEARN_MORE": "Learn More"
+      },
+      "STUDIO": {
+        "TITLE": "TensorBlock Studio is a lightweight, developer-friendly AI workspace built for clarity, control, and creativity.",
+        "DESCRIPTION": "With one secure key, access and orchestrate models across providers — with intelligent routing, enterprise-grade encryption, automated failover, and real-time cost control. Built for speed, scale, and seamless integration.",
+        "LEARN_MORE": "Learn More"
+      },
+      "MCP_HUB": {
+        "TITLE": "MCP Hub is your gateway to the Model Context Protocol ecosystem.",
+        "DESCRIPTION": "It offers a curated set of MCP servers, deployable in the cloud with secure, efficient, and multi-tenant support. MCP Hub intelligently routes requests to the most suitable server based on your needs — enabling scalable, reliable, and optimized AI service delivery.",
+        "LEARN_MORE": "Join Waitlist"
+      }
+    },
+    "PLATFORMS": {
+      "TITLE_1": "Platforms and models",
+      "TITLE_2": "for building relationships with us"
+    },
+    "LAYERED_APPROACH": {
+      "TITLE_1": "TensorBlock's",
+      "TITLE_2": "Layered Approach",
+      "MATRIX": "Resource orchestration across compute",
+      "CELL": "Runtime isolation for execution",
+      "REACTOR": "Pluggable logic for AI tasks",
+      "FORGE": "Dispatch layer routing requests",
+      "STUDIO": "UX layer for Users and Agents"
+    },
+    "CONNECTED": {
+      "TITLE": "Keep Connected"
+    }
   },
   "NAV": {
     "HOME": "Home",
