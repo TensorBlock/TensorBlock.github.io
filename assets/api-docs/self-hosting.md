@@ -25,7 +25,7 @@ Using Docker Compose is the recommended way to get started, as it handles the se
 First, get the source code from GitHub.
 
 ```bash
-git clone https://github.com/tensorblockai/forge.git
+git clone https://github.com/TensorBlock/forge.git
 cd forge
 ```
 
