@@ -17,6 +17,6 @@ With Forge, you can stop writing custom code for every new model you want to try
 Forge is designed to fit your workflow, whether you're a solo developer or a large enterprise.
 
 -   **The Cloud Platform**: Get started in seconds at [forge.tensorblock.co](https://forge.tensorblock.co). We prioritize your privacy: your provider keys are securely encrypted, and we never log the content of your requests. We only use metadata to generate usage insights, so you can focus on building with peace of mind.
--   **The Open-Source Edge**: For maximum control and privacy, clone the repository and deploy Forge within your own environment. You own the data, you own the infrastructure. Find out more in our [Self-Hosting Guides](./self-hosting).
+-   **The Open-Source Edge**: For maximum control and privacy, clone the repository and deploy Forge within your own environment. You own the data, you own the infrastructure. Find out more in our [Self-Hosting Guides](./api-docs/self-hosting).
 
 Ready to simplify your AI development? Let's get started. 
