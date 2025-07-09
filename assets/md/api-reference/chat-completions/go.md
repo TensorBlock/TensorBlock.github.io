@@ -11,7 +11,7 @@ import (
 func main() {
   url := "https://api.forge.tensorblock.co/v1/chat/completions"
   body := strings.NewReader(`{
-    "model": "gpt-4o",
+    "model": "OpenAI/gpt-4o",
     "messages": [
       {
         "role": "user",

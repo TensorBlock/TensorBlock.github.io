@@ -1,6 +1,6 @@
 ```javascript
 const body = JSON.stringify({
-  "model": "gpt-4o",
+  "model": "OpenAI/gpt-4o",
   "messages": [
     {
       "role": "user",
