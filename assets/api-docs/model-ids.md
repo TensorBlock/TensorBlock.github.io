@@ -1,6 +1,10 @@
+# Model IDs
+
 *Last Updated: July 10th, 2025*
 
 Model IDs for all providers are obtained through their respective /v1/models endpoints.
+
+<br>
 
 # OpenAI
   - OpenAI/gpt-4-0613
