@@ -34,6 +34,6 @@ If you are not sure which model name to use, you can get a list of all available
 
 ### 5. Next steps
 
--   Read the [Self-host guide](./self-hosting/installation.md) for installation details.
--   Check out the full [API Reference](./api-reference.html) (coming soon!).
+-   Read the [Self-host guide](./api-docs/self-hosting). for installation details.
+-   Check out the full [API Reference](./api-docs) (coming soon!).
 -   Drop into our GitHub for help or feature requests.

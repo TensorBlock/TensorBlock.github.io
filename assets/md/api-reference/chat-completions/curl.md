@@ -2,7 +2,7 @@
 curl -X POST "https://api.forge.tensorblock.co/v1/chat/completions" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "gpt-4o",
+    "model": "OpenAI/gpt-4o",
     "messages": [
       {
         "role": "user",
