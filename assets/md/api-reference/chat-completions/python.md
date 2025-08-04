@@ -12,7 +12,8 @@ body = {
   ]
 }
 response = requests.request("POST", url, json = body, headers = {
-  "Content-Type": "application/json"
+  "Content-Type": "application/json",
+  "Authorization": "Bearer $FORGE_API_KEY"
 })
 
 print(response.text)

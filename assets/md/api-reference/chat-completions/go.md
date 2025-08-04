@@ -21,6 +21,7 @@ func main() {
   }`)
   req, _ := http.NewRequest("POST", url, body)
   req.Header.Add("Content-Type", "application/json")
+  req.Header.Add("Authorization", "Bearer $FORGE_API_KEY")
   res, _ := http.DefaultClient.Do(req)
   defer res.Body.Close()
   body, _ := ioutil.ReadAll(res.Body)
@@ -28,4 +29,3 @@ func main() {
   fmt.Println(res)
   fmt.Println(string(body))
 }
-```

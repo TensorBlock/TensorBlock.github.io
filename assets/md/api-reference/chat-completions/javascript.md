@@ -10,6 +10,10 @@ const body = JSON.stringify({
 })
 
 fetch("https://api.forge.tensorblock.co/v1/chat/completions", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer $FORGE_API_KEY"
+  },
   body
 })
-```
