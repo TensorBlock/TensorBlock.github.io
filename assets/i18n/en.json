@@ -31,6 +31,11 @@
         "TITLE": "MCP Hub is your gateway to the Model Context Protocol ecosystem.",
         "DESCRIPTION": "It offers a curated set of MCP servers, deployable in the cloud with secure, efficient, and multi-tenant support. MCP Hub intelligently routes requests to the most suitable server based on your needs — enabling scalable, reliable, and optimized AI service delivery.",
         "LEARN_MORE": "Join Waitlist"
+      },
+      "EMBODIED_SIMULATOR": {
+        "TITLE": "Embodied Simulator is a high-fidelity platform for embodied AI.",
+        "DESCRIPTION": "With realistic physics, multi-agent environments, and customizable scenarios, it accelerates the design, training, and deployment of intelligent systems—reducing cost while bridging simulation and reality.",
+        "LEARN_MORE": "Coming Soon"
       }
     },
     "PLATFORMS": {

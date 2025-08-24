@@ -31,6 +31,11 @@
         "TITLE": "MCP Hub es tu puerta de entrada al ecosistema del Protocolo de Contexto de Modelo.",
         "DESCRIPTION": "Ofrece un conjunto curado de servidores MCP, desplegables en la nube con soporte seguro, eficiente y multi-tenant. MCP Hub enruta inteligentemente las solicitudes al servidor más adecuado basándose en tus necesidades — habilitando entrega de servicios de IA escalable, confiable y optimizada.",
         "LEARN_MORE": "Únete a la Lista de Espera"
+      },
+      "EMBODIED_SIMULATOR": {
+        "TITLE": "Simulador Encarnado es una plataforma de alta fidelidad para IA encarnada.",
+        "DESCRIPTION": "Con física realista, entornos multi-agente y escenarios personalizables, acelera el diseño, entrenamiento y despliegue de sistemas inteligentes—reduciendo costos mientras conecta simulación y realidad.",
+        "LEARN_MORE": "Próximamente"
       }
     },
     "PLATFORMS": {
